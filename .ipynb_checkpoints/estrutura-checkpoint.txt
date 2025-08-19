@@ -1,7 +1,0 @@
-01_analise_precos_casas/
-├── README.md
-├── notebooks/
-│   └── analise_precos.ipynb
-├── data/
-│   └── house-prices.csv
-└── images/
