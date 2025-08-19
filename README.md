@@ -27,4 +27,3 @@ O conjunto de dados utilizado neste projeto é o "House Prices - Advanced Regres
 * **Linguagem:** Python
 * **Bibliotecas:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
 
----
