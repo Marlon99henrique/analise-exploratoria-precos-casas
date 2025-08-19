@@ -21,7 +21,7 @@ Este projeto é uma **Análise Exploratória de Dados (EDA)** detalhada de um co
 O conjunto de dados utilizado neste projeto é o "House Prices - Advanced Regression Techniques", obtido diretamente do Kaggle.
 
 * **Link para download:** [https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
-* 
+  
 ## Tecnologias Utilizadas
 
 * **Linguagem:** Python
